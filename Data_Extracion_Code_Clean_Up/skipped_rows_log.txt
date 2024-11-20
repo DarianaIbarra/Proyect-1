@@ -1,2 +1,0 @@
-Details of rows skipped due to None UID:
-
