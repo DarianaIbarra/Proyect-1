@@ -7,7 +7,7 @@
 # information was used to then determine whether these SNPs could affect protein-coding genes.
 # Genes were cross-referenced with Ensembl REST API to determine their gene type. 
 
-# All protein-coding genes were then inputted into cytoscape in order to build
+# All protein-coding genes were then inputted into UnitProtKB to obtain their ID and then into cytoscape in order to build
 # a protein-protein interaction network. All data was then downloaded and processed
 # through python.
 
