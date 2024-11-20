@@ -10,8 +10,8 @@
 
 #ANALYSIS:
 
-#Specific SNPs, such as rs356182 in the SNCA gene,  and rs34311866 in TMEM175 gene are strongly linked to Parkinson’s Disease. While the exact distribution isn’t specific in the extracted content, trends in SNP occurrence by population could indicate genetic predispositions.
+#The SNP rs356182 in the SNCA gene is most associated with Parkinson’s Disease, with samples taken from diverse populations including European and East Asian origins.
 
-#The genes mostly affected by the SNPs are "protein coding" and " Intergenic".
+#The SNPs primarily affect genes involved in neuronal function, cellular signaling, and lysosomal activity, critical for maintaining healthy brain cells.
 
-#SNCA, LRRK2, TMEM175, BST1 all of these genes play essential roles in maintaining neuronal health and are heavily interconnected within the PPI network, emphasizing their potential contribution to Parkinson’s pathology.
+#Protein-coding genes such as SNCA, LRRK2, TMEM175, and BST1 form key parts of the protein-protein interaction network, serving as central hubs.
